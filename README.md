@@ -97,6 +97,5 @@ The contract will automatically mint the tokens and distribute them to a buyer i
 [![Watch the video](Images/Youtube_thumbnail.png)](https://www.youtube.com/watch?v=k0XJSKDnowg)
 
 ---
-### The screen recording is also checked in the repo and the name of the file is is ScreenRecording_18_BlockChain.mov
-
-![alt="OverviewApplication"](KaseiCrowdsaleContractDemo.mov)
+### The screen recording was 250 MB and could not be uploaded to the repo due to GIT constraints.
+Kindly refer to the youtube link for the recording of the demo
